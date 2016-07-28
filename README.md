@@ -4,10 +4,7 @@
 ### The Tournament Planner is a Python module, which allows users to do mainly the following:
 
  * Keep track of players and matches in a game tournament, 
- * Pair players according to the Swiss system, 
- * View different pictures of movies,
- * Read Storyline, actors, and release date of movies,
- * Comment on movies
+ * Pair players according to the Swiss system
 	
 ### In order to run the module, it is required to:
 
